@@ -34,9 +34,9 @@ npm install @guydav/phaser-on-nodejs
 ## How to use
 
 ```js
-require('@geckos.io/phaser-on-nodejs')
+require('@guydav/phaser-on-nodejs')
 // or with es6
-import '@geckos.io/phaser-on-nodejs'
+import '@guydav/phaser-on-nodejs'
 ```
 
 ## Features
@@ -58,7 +58,7 @@ import '@geckos.io/phaser-on-nodejs'
 Install and require `phaser` and `@geckos.io/phaser-on-nodejs`. Make sure you use Phaser in headless mode on the server `{ type: Phaser.HEADLESS }`
 
 ```js
-require('@geckos.io/phaser-on-nodejs')
+require('@guydav/phaser-on-nodejs')
 const Phaser = require('phaser')
 
 // set the fps you need
