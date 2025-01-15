@@ -28,7 +28,7 @@ _Successfully tested with v3.87.0_
 ## Install
 
 ```console
-npm install @geckos.io/phaser-on-nodejs
+npm install @guydav/phaser-on-nodejs
 ```
 
 ## How to use
